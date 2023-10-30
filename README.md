@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/mi798vovy2m9fwjt?svg=true)](https://ci.appveyor.com/project/finchik/dnd2)
 
 [https://finchik.github.io/dnd2/](https://finchik.github.io/dnd2/)
-[https://FM-71.github.io/dnd2/](https://FM-71.github.io/dnd2/)
+[[https://FM-71.github.io/dnd2/](https://FM-71.github.io/dnd2/)](https://fm-71.github.io/dnd2/)
 
 Правила сдачи задания:
 
