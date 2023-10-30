@@ -149,7 +149,7 @@ const taskInFokus = (e) => {
   }
 
   if (document.querySelector('.closed_element') && !activeTask && e.target !== document.querySelector('.closed_element')) {
-    document.querySelector('.closed_element').remove();
+    //document.querySelector('.closed_element').remove();
   }
 };
 
